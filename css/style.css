@@ -1,8 +1,62 @@
-html {
-  font-family: Helvetica;
-  text-align: center;
+#header {
+background-image: url("file:///C:/Users/HP%20User/Broadway/resources/images/the-flatiron-building.png");
 }
 
 h1 {
+  font-family: Helvetica;
   font-size: 70px;
+  font-weight: bold;
+  color: white;
+
+}
+
+nav {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-decoration:underline;
+}
+
+html {
+  text-align: center;
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.actions {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+.we {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+#design {
+      background-image: url("file:///C:/Users/HP%20User/Broadway/resources/images/the-flatiron-building.png");
+);
+      font-family: Helvetica;
+      font-size: 23px;
+      font-weight: bold;
+      color: white;
+}
+
+#footer {
+  text-align: left ;
+  background-color: dimgray;
+  font-family: Helvetica;
+  color: white;
+  font-size: 11px;
+}
+
+#id {
+  text-decoration:underline;
+}
+
+.foot {
+  text-decoration: underline;
 }
